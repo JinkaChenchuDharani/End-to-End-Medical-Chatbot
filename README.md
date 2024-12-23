@@ -1,1 +1,1 @@
-# End-to-End-Medicak-Chatbot
+# End-to-End-Medical-Chatbot
